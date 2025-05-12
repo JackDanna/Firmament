@@ -1,3 +1,4 @@
+- [B.U.L.K](./Characters/PC/B.U.L.K/B.U.L.K.md)
 - [Graveyard](./Characters/PC/Graveyard/Graveyard.md)
 - [Lucky](./Characters/PC/Lucky/Lucky.md)
 - [Needles](./Characters/PC/Needles/Needles.md)
